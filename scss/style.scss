@@ -515,7 +515,7 @@
         }
         &__item {
             width: 25%;
-            min-height: 275px;
+            min-height: 307px;
             padding: 0 17px;
             &:nth-child(4n+2) {
                 border-right: none;
@@ -557,11 +557,12 @@
             margin-bottom: 40px;
         }
         &__items {
+            min-height: 370px;
             margin: 0;
         }
         &__item {
             width: 230px;
-            min-height: 277px;
+            min-height: 308px;
             padding: 0 6px;
             &:nth-child(4n+2) {
                 border-right: none;
